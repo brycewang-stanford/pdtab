@@ -347,4 +347,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**pdtab** - Bringing Stata's tabulation power to the Python ecosystem! 🐍📊
+**pdtab** - Bringing Stata's tabulation power to the Python ecosystem! 🐍
