@@ -55,9 +55,9 @@ docs = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pdtab/pdtab"
-"Bug Reports" = "https://github.com/pdtab/pdtab/issues"
-"Source" = "https://github.com/pdtab/pdtab"
+"Homepage" = "https://github.com/brycewang-stanford/pdtab"
+"Bug Reports" = "https://github.com/brycewang-stanford/pdtab/issues"
+"Source" = "https://github.com/brycewang-stanford/pdtab"
 "Documentation" = "https://pdtab.readthedocs.io/"
 
 [project.scripts]
