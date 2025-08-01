@@ -145,3 +145,6 @@ Desktop.ini
 
 # Project specific
 *.pdf
+PROJECT_SUMMARY.md
+PUBLISHING_GUIDE.md
+RELEASE_READY.md
