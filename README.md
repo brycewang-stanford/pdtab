@@ -1,9 +1,7 @@
 # pdtab: Pandas-based Tabulation Library
 
 [![PyPI version](https://badge.fury.io/py/pdtab.svg)](https://badge.fury.io/py/pdtab)
-[![Downloads](https://static.pepy.tech/badge/pdtab)](https://pepy.tech/project/pdtab)
-[![Downloads](https://static.pepy.tech/badge/pdtab/month)](https://pepy.tech/project/pdtab)
-[![Downloads](https://static.pepy.tech/badge/pdtab/week)](https://pepy.tech/project/pdtab)
+[![PyPI downloads](https://img.shields.io/pypi/dm/pdtab.svg)](https://pypi.org/project/pdtab/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/pdtab.svg)](https://pypi.org/project/pdtab/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/brycewang-stanford/pdtab.svg?style=social&label=Star)](https://github.com/brycewang-stanford/pdtab)
@@ -42,7 +40,7 @@ pip install pdtab
 Or install from source:
 
 ```bash
-git clone https://github.com/pdtab/pdtab.git
+git clone https://github.com/brycewang-stanford/pdtab.git
 cd pdtab
 pip install -e .
 ```
@@ -316,7 +314,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ### Development Setup
 
 ```bash
-git clone https://github.com/pdtab/pdtab.git
+git clone https://github.com/brycewang-stanford/pdtab.git
 cd pdtab
 pip install -e ".[dev]"
 pytest
@@ -342,8 +340,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Support
 
 - **Documentation**: [https://pdtab.readthedocs.io](https://pdtab.readthedocs.io)
-- **Issues**: [GitHub Issues](https://github.com/pdtab/pdtab/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/pdtab/pdtab/discussions)
+- **Issues**: [GitHub Issues](https://github.com/brycewang-stanford/pdtab/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/brycewang-stanford/pdtab/discussions)
 
 ---
 
