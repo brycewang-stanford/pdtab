@@ -1,0 +1,9 @@
+include README.md
+include QUICKSTART.md
+include CHANGELOG.md
+include LICENSE
+include tutorial.ipynb
+include test_examples.py
+recursive-include pdtab *.py
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
