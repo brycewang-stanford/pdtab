@@ -1,6 +1,21 @@
-# pdtab v0.1.0 Release Notes
+# pdtab Release Notes
 
-## 🎉 Initial Release
+## 🔧 v0.1.1 (August 1, 2025)
+
+### Bug Fixes & Improvements
+- **Fixed README badges**: Resolved display issues with download badges that showed as garbled text
+- **Updated repository URLs**: Corrected all GitHub URLs to point to the actual repository location
+- **Improved documentation**: Fixed installation and development setup instructions
+- **Enhanced badge display**: Replaced problematic pepy.tech badges with reliable shields.io alternatives
+
+### Documentation Updates
+- Fixed clone URLs in installation instructions
+- Updated GitHub Issues and Discussions links
+- Improved badge formatting and removed duplicate labels
+
+---
+
+## 🎉 v0.1.0 (August 1, 2025) - Initial Release
 
 This is the initial release of **pdtab**, a comprehensive Python library that replicates Stata's `tabulate` command functionality using pandas as the backend.
 

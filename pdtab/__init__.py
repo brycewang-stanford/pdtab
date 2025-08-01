@@ -12,9 +12,9 @@ Main Functions:
 - tabi: Immediate tabulation from supplied data
 """
 
-__version__ = "0.1.0"
-__author__ = "pdtab Development Team"
-__email__ = "pdtab@example.com"
+__version__ = "0.1.1"
+__author__ = "Bryce Wang"
+__email__ = "brycew6m@stanford.edu"
 
 # Import main functions to top level
 from .core.oneway import OneWayTabulator

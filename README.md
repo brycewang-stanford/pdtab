@@ -1,10 +1,10 @@
 # pdtab: Pandas-based Tabulation Library
 
 [![PyPI version](https://badge.fury.io/py/pdtab.svg)](https://badge.fury.io/py/pdtab)
-[![PyPI downloads](https://img.shields.io/pypi/dm/pdtab.svg)](https://pypi.org/project/pdtab/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/pdtab.svg)](https://pypi.org/project/pdtab/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/brycewang-stanford/pdtab.svg?style=social&label=Star)](https://github.com/brycewang-stanford/pdtab)
+[![PyPI downloads](https://img.shields.io/pypi/dm/pdtab.svg)](https://pypi.org/project/pdtab/)
 
 **pdtab** is a comprehensive Python library that replicates the functionality of Stata's `tabulate` command using pandas as the backend. This library provides powerful one-way, two-way, and summary tabulations with statistical tests and measures of association.
 
