@@ -8,6 +8,9 @@
 - **Improved documentation**: Fixed installation and development setup instructions
 - **Enhanced badge display**: Replaced problematic pepy.tech badges with reliable shields.io alternatives
 
+### Breaking Changes
+- **Removed CLI functionality**: The command-line interface (`pdtab-cli`) has been removed to simplify the package and focus on the Python API
+
 ### Documentation Updates
 - Fixed clone URLs in installation instructions
 - Updated GitHub Issues and Discussions links
@@ -39,7 +42,6 @@ This is the initial release of **pdtab**, a comprehensive Python library that re
 - **Weighted analysis**: Full support for sampling weights
 - **Missing value handling**: Flexible options for missing data treatment
 - **Multiple table generation**: Batch processing with `tab1()` and `tab2()`
-- **Command-line interface**: `pdtab-cli` for terminal usage
 - **Visualization**: Integration with matplotlib/seaborn for publication-ready plots
 - **Export options**: HTML, CSV, and dictionary formats
 
@@ -106,4 +108,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**pdtab v0.1.0** - Bringing Stata's tabulation power to the Python ecosystem! 🐍📊
+**pdtab v0.1.1** - Bringing Stata's tabulation power to the Python ecosystem! 🐍📊

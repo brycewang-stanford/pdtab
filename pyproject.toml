@@ -60,9 +60,6 @@ docs = [
 "Source" = "https://github.com/brycewang-stanford/pdtab"
 "Documentation" = "https://pdtab.readthedocs.io/"
 
-[project.scripts]
-pdtab-cli = "pdtab.cli:main"
-
 [tool.setuptools]
 packages = ["pdtab", "pdtab.core", "pdtab.stats", "pdtab.utils", "pdtab.viz"]
 include-package-data = true

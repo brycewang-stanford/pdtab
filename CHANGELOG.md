@@ -5,7 +5,21 @@ All notable changes to pdtab will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0] - 2024-01-XX
+## [0.1.1] - 2025-08-01
+
+### Fixed
+- Fixed README badges display issues
+- Corrected repository URLs throughout documentation
+- Improved installation and development setup instructions
+
+### Removed
+- Command-line interface (`pdtab-cli`) for simplified package design
+
+### Changed
+- Enhanced badge display with reliable shields.io alternatives
+- Updated documentation to focus on Python API usage
+
+## [0.1.0] - 2025-08-01 - Initial Release
 
 ### Added
 - Initial release of pdtab library
@@ -27,7 +41,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Data processing utilities for validation and preprocessing
 - Visualization module with matplotlib/seaborn integration
 - Export capabilities (HTML, CSV, dictionary formats)
-- Command-line interface `pdtab-cli`
 - Comprehensive documentation and examples
 - Tutorial notebook with real-world scenarios
 - Quick start guide for immediate productivity

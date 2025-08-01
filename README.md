@@ -54,6 +54,19 @@ pip install -e .
 - matplotlib >= 3.0.0 (for plotting)
 - seaborn >= 0.11.0 (for enhanced plotting)
 
+## 🎯 Design Philosophy
+
+**pdtab** is designed as a **pure Python library** focused exclusively on providing Stata's tabulate functionality through a clean, programmatic API. 
+
+### Key Design Decisions:
+
+- **No Command-Line Interface**: pdtab is intentionally designed as a library-only package to maintain simplicity and focus on the Python ecosystem
+- **Jupyter-First Approach**: Optimized for data science workflows in Jupyter notebooks and Python scripts
+- **Programmatic Access**: All functionality accessible through Python functions with comprehensive options
+- **Integration Ready**: Designed to integrate seamlessly with pandas, matplotlib, and the broader PyData ecosystem
+
+This design ensures pdtab remains lightweight, maintainable, and perfectly suited for modern data science workflows.
+
 ## Quick Start
 
 ### Basic One-way Tabulation
